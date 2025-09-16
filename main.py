@@ -1,7 +1,6 @@
 """
 To run locally: `fastapi dev main.py`
-
-To run on exec in Docker: `fastapi run main.py --port <port>`
+To run in docker exec: `
 """
 
 from fastapi import FastAPI
