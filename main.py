@@ -1,7 +1,7 @@
 """
-To run:
-1. `pip install -r requirements.txt`
-1. `fastapi dev main.py`
+To run locally: `fastapi dev main.py`
+
+To run on exec in Docker: `fastapi run main.py --port <port>`
 """
 
 from fastapi import FastAPI
